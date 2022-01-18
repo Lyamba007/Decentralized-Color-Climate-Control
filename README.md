@@ -1,4 +1,4 @@
-# Monitor-Light-Control
+# Decentralized-Color-Climate-Control
 
 A prototype of a modified split climate control system, "smart" climate, using a hardware platform, based on a microcontroller device and a server part, based on the HTTP protocol.
 The control device is implemented on the basis of the microcontroller ESP-12E (ESP8266) NodeMCU. The microcontroller is programmed in the SI programming language (Wiring) in the Arduino IDE using the standard description of the software implementation in this IDE. The selected microcontroller can be replaced with an Arduino board if further modifications to the human interaction are not associated with Wi-Fi technology.
